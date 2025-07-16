@@ -209,3 +209,9 @@ For questions or support, please open an issue in the repository.
 ---
 
 **Built with ❤️ for learning API integration and responsive web design**
+
+
+## OUTPUT:
+<img width="892" height="764" alt="Image" src="https://github.com/user-attachments/assets/a57b3d6f-11c3-4e3e-a5f5-006d94f2add5" />
+
+<img width="814" height="745" alt="Image" src="https://github.com/user-attachments/assets/205fa94f-3229-48fd-8b5d-038eeb763299" />
